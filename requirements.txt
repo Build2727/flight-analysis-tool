@@ -1,0 +1,5 @@
+streamlit
+pymavlink
+pandas
+matplotlib
+fpdf
